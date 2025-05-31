@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import projects.exeception.DbException;
+import projects.exception.DbException;
 
 ///according to the video and dr rob these are the constants
 
